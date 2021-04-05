@@ -1,1 +1,1 @@
-# it202-project1
+# A sample landing page using HTML/CSS/JS. This template also makes use of boostrap.
